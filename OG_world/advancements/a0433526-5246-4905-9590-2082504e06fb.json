@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-11-30 15:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2021-11-30 15:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2021-11-30 15:20:08 +0000",
+      "minecraft:river": "2021-11-30 15:20:40 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
